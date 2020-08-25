@@ -24,6 +24,7 @@ function Carregar_imagem()
     document.body.style.background = '#515154'
   }
 }
+
 function Atualizar_relogio()
 {
   var data = new Date()

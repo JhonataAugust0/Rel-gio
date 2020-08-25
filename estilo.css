@@ -28,7 +28,8 @@ footer
     text-align: center;
     font-style: italic;
 }
-#relogio {
+#relogio
+{
     font-family: sans-serif;
     font-size: 50px;
     color: rgb(0, 0, 0);
